@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>583070d9-9664-4d8d-81f0-b96eee8e97e0</TargetProject>
+    <FriendlyName>curiosity</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Елена\AppData\Local\Temp\curiosity_20170606.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
